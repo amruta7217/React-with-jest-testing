@@ -1,0 +1,22 @@
+.form-container {
+  border: 1px solid #dee2e6;
+  margin: 20%;
+  border-radius: 6px;
+  padding: 20px;
+}
+
+.profile {
+  background: red;
+}
+
+.cartContainer {
+  text-align: left;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.order-container {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
